@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\bin\Debug\net6.0\Donguler_While_Foreach.exe
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\bin\Debug\net6.0\Donguler_While_Foreach.deps.json
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\bin\Debug\net6.0\Donguler_While_Foreach.runtimeconfig.json
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\bin\Debug\net6.0\Donguler_While_Foreach.dll
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\bin\Debug\net6.0\ref\Donguler_While_Foreach.dll
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\bin\Debug\net6.0\Donguler_While_Foreach.pdb
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\obj\Debug\net6.0\Donguler_While_Foreach.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\obj\Debug\net6.0\Donguler_While_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\obj\Debug\net6.0\Donguler_While_Foreach.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\obj\Debug\net6.0\Donguler_While_Foreach.AssemblyInfo.cs
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\obj\Debug\net6.0\Donguler_While_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\obj\Debug\net6.0\Donguler_While_Foreach.dll
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\obj\Debug\net6.0\ref\Donguler_While_Foreach.dll
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\obj\Debug\net6.0\Donguler_While_Foreach.pdb
+C:\Users\alper\Desktop\Pratikler\Donguler_While_Foreach\obj\Debug\net6.0\Donguler_While_Foreach.genruntimeconfig.cache
